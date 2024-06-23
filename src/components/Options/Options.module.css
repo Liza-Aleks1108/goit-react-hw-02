@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  background-color: grey;
+}
+
+.button:hover,
+.button:focus {
+  background-color: rgb(49, 49, 49);
+}
